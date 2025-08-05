@@ -52,9 +52,3 @@ Este projeto foi desenvolvido como parte do curso:
 Matheus Brito 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT — veja detalhes em [LICENSE](LICENSE.md).
-
-
-Feito com 💙 durante a trilha de aprendizado em JavaScript 🚀
