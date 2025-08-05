@@ -47,6 +47,11 @@ Este projeto foi desenvolvido como parte do curso:
 **Programa ONE - Oracle Next Education em parceria com a Alura**
 
 
+## 🔗 Demonstração
+
+[👉 Clique aqui para testar o Amigo Secreto](https://matheusbrts.github.io/challenge-amigo-secreto/)
+
+
 ## 👷 Autor
 
 Matheus Brito 
