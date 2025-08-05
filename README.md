@@ -28,7 +28,7 @@ em uma atividade clássica: o sorteio de **Amigo Secreto**.
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (ES6)**
+- **JavaScript**
 
 ---
 
