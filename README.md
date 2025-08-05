@@ -34,7 +34,7 @@ em uma atividade clássica: o sorteio de **Amigo Secreto**.
 
 ## 📚 Sobre o projeto
 
-Este projeto foi desenvolvido para praticar:
+Neste projeto consegui praticar:
 
 - **Manipulação de arrays** (push, loops, Math.random)  
 - **Manipulação de DOM** (getElementById, createElement, innerHTML)  
